@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: rgb(28, 94, 158);
+  background: linear-gradient(
+    90deg,
+    rgba(28, 94, 158, 0.896796218487395) 5%,
+    rgba(5, 12, 217, 1) 59%
+  );
+}
+
+.container {
+ height: 450px;
+  width: 541px;
+  border-radius: 5px;
+  margin-top: 100px;
+  background: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 20px;
+}
+
+#caixinhas{
+ 
+  display: flex;
+  
+}
+
+
+
